@@ -22,16 +22,20 @@
   
       .option {
         padding: 10px 15px;
-        margin: .5rem;
+        //  margin: .5rem;
       }
     }
     .cover{
         background-color: #000000;
         color: #fff;
         border-radius: 10px;  
+        border:  1px solid transparent;
     }
     .cover:hover{
         background-color: #fff;
         color: #000000;
+        border: 1px solid #000000;
+        
+        
     }
   }
