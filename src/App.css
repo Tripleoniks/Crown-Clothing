@@ -1,7 +1,10 @@
 body{
   font-family: 'Open Sans Condensed';
-  padding: 20px 60px ;
+  padding: 20px 40px ;
   
+}
+*{
+  box-sizing: border-box;
 }
 a {
   text-decoration: none;
