@@ -1,4 +1,4 @@
-import { SET_CURRENT_USER } from "./usertype"
+import { SET_CURRENT_USER } from "./userType"
 
 
 const setCurrentUser = (user) =>{
